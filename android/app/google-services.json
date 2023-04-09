@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66908966478",
+    "firebase_url": "https://freebus-35e59-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "freebus-35e59",
+    "storage_bucket": "freebus-35e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66908966478:android:0585f7ffd514d5a48cfd1f",
+        "android_client_info": {
+          "package_name": "com.example.free_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66908966478-1ifupg2m796uvvvri9n5lk6396isasn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.free_bus",
+            "certificate_hash": "e978fc945b88e03cb8562cb8f597fe9d5deab7b2"
+          }
+        },
+        {
+          "client_id": "66908966478-857qfr3jdtk4enmjrgo48qq972j5hvt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTBeNsZyiD6EPlRf8FjyOwRUPDRmtcjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66908966478-857qfr3jdtk4enmjrgo48qq972j5hvt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
